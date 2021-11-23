@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PonnamMadhu
 - 👀 I’m interested in  learning new things.
-- 🌱 I’m currently learning  HTML and CS
+- 🌱 I’m currently learning  HTML,CSS and Javascript
 - 📫 Reachme via my mail:madhuponnam66@gmail.com
 
 <!---
